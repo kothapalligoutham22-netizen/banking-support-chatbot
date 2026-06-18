@@ -2,7 +2,7 @@ Banking Support Chatbot
 
 A secure, AI-powered Banking Support Chatbot built using Google Gemini 2.5 Flash, designed to provide fast, empathetic, and accurate assistance for a wide range of banking-related queries. This project includes enterprise-grade safety guardrails, escalation flows, and structured conversational logic to ensure reliable and compliant customer support.
 
-🚀 Overview
+--> Overview
 
 This chatbot simulates a real banking support assistant, helping customers navigate:
 
@@ -24,7 +24,7 @@ General banking FAQs
 
 The system prompt is engineered to maintain high consistency, security, and empathetic responses, ideal for portfolio display or integration within a banking prototype.
 
-✅ Features
+--> Features
 
 AI-powered natural language understanding powered by Gemini 2.5 Flash
 
@@ -52,7 +52,7 @@ Frontend: Can be integrated with web/mobile UIs
 
 Version Control: Git & GitHub
 
-📐 Architecture Diagram
+--> Architecture Diagram
 
 Below is a simplified high-level architecture of the Banking Support Chatbot application:
 
